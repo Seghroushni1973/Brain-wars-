@@ -18,14 +18,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#0a0a0f"
       },
-      "package": "com.fassi1973.brainwars",
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.fassi1973.brainwars"
     },
     "extra": {
       "eas": {
